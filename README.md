@@ -1,1 +1,1 @@
-# GPA-Calculator
+# OUSL GPA-Calculator
