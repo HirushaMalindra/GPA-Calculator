@@ -1,6 +1,8 @@
 # OUSL GPA Calculator
 
 A lightweight, web-based tool designed to help students at The Open University of Sri Lanka quickly and accurately calculate their Grade Point Average (GPA). 
+<img width="1414" height="2000" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/60c4b1d0-8005-491d-82dd-ec190577e4cd" />
+
 
 ## Features
 * **Instant Calculation:** Client-side processing ensures your GPA is calculated immediately upon input.
